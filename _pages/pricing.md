@@ -1,0 +1,4 @@
+---
+permalink: /pricing/
+title: "Pricing"
+---
