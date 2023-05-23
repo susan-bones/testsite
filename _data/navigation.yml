@@ -1,10 +1,10 @@
 main:
   - title: "Dog Portraits"
-    url: /posts/
+    url: /dog_portraits/
   - title: "Cat Portraits"
-    url: /categories/
+    url: /cat_portraits/
   - title: "Pricing"
-    url: /tags/
+    url: /pricing/
   - title: "About"
     url: /about/
   - title: "FAQ"
