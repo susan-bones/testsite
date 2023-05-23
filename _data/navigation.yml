@@ -1,9 +1,11 @@
 main:
-  - title: "Posts"
+  - title: "Dog Portraits"
     url: /posts/
-  - title: "Categories"
+  - title: "Cat Portraits"
     url: /categories/
-  - title: "Tags"
+  - title: "Pricing"
     url: /tags/
   - title: "About"
     url: /about/
+  - title: "FAQ"
+    url: /faq/
