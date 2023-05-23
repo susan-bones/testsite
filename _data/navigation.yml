@@ -3,6 +3,8 @@ main:
     url: /dog_portraits/
   - title: "Cat Portraits"
     url: /cat_portraits/
+  - title: "How it Works"
+    url: /how_it_works/
   - title: "Pricing"
     url: /pricing/
   - title: "About"
